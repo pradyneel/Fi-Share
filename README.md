@@ -14,7 +14,9 @@ pip3 install pyqrcode
 pip3 install pypng
 ```
 
-## Sent files to Moblie
+## Send files to Moblie
   - Open the python file in PC.<br> 
     ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/Execution.png)
+  - Either Scan QRcode or type the IP Address in your mobile browser.
+    ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/QrCode.png)
 
