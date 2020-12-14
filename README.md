@@ -15,15 +15,9 @@ pip3 install pypng
 ```
 
 ## Send files to Moblie
-  - Open the python file in PC.
-  <br>
-  <br>
-  <br>
+  - Open the python file in PC.<br><br><br>
     ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/Execution.png)
-  - Either Scan QRcode or type the IP Address in your mobile browser.
-  <br>
-  <br>
-  <br>
+  - Either Scan QRcode or type the IP Address in your mobile browser.<br><br><br>
     ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/QrCode.png)
     
 ## Smart Share Execution
