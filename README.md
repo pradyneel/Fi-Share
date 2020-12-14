@@ -15,6 +15,6 @@ pip3 install pypng
 ```
 
 ## Sent files to Moblie
-- Open the python file in PC.
-![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/Execution.png)
+  - Open the python file in PC.<br> 
+    ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/Execution.png)
 
