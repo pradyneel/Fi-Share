@@ -21,5 +21,5 @@ pip3 install pypng
     ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/QrCode.png)
     
 ## Smart Share Execution
-  !index()
+  ![index](https://github.com/pradyneel/Fi-Share/blob/master/Images/new.mp4)
 
